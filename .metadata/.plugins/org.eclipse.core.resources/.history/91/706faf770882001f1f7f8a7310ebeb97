@@ -1,0 +1,11 @@
+package com.project.userdpt.entities;
+
+public class Departament {
+	
+	private Long id;
+	private String name;
+	
+	public Department() {
+		
+	}
+}

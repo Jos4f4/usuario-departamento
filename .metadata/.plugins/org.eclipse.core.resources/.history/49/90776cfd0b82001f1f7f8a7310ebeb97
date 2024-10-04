@@ -1,0 +1,5 @@
+package com.project.userdpt.repositories;
+
+public class UserRepository {
+
+}
